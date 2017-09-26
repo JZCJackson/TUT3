@@ -1,13 +1,5 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 print(\'93hello world1\'94)\
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 print(\'93hello world2\'94)\
-print(\'93hello world3\'94)\
-print(\'93hello world4\'94)\
-print(\'93hello world5\'94)\
-}
+print ("hellot world1")
+print ("hellot world2")
+print ("hellot world3")
+print ("hellot world4")
+print ("hellot world5")
